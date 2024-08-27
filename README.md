@@ -14,6 +14,13 @@ Além disso, você pode acessar o repositório completo do projeto, que integra 
 
 - **Projeto Completo:** [ProjetoFinalCompleto](https://github.com/gabrielandre-math/ProjetoFinalCompleto)
 
+## Protótipo no Figma
+
+Você pode visualizar o protótipo detalhado deste projeto no Figma através do link abaixo. O protótipo fornece uma visão completa do design e da experiência de usuário planejados para a aplicação.
+
+- **Link para o protótipo no Figma:** [Clique aqui para acessar o Figma](https://www.figma.com/design/tUEInhGX4TW3lHFKzufQGj/Untitled?node-id=0-1&t=nx7Xo5ZYcCzUpgoi-1)
+
+
 ## Tecnologias Utilizadas
 
 - Angular
