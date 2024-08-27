@@ -8,12 +8,8 @@ Este é o frontend do Projeto Final, desenvolvido utilizando Angular. O objetivo
 
 O projeto foi dividido em duas partes principais:
 
-- **Frontend:** [ProjetoFinalFrontEnd](https://github.com/gabrielandre-math/ProjetoFinalFrontEnd)
+- **Frontend:** [ProjetoFinalFrontEnd](https://github.com/gabrielandre-math/ProjetoFinalFrontEnd/tree/master)
 - **Backend:** [ProjetoFinalBackEnd](https://github.com/gabrielandre-math/ProjetoFinalBackend)
-
-Além disso, você pode acessar o repositório completo do projeto, que integra ambas as partes:
-
-- **Projeto Completo:** [ProjetoFinalCompleto](https://github.com/gabrielandre-math/ProjetoFinalCompleto)
 
 ## Protótipo no Figma
 
@@ -87,5 +83,5 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ## Contato
 
-- Autor: Gabriel Andre
+- Autor: Gabriel André
 - Email: gabrieldevpyc@gmail.com
