@@ -1,6 +1,7 @@
 # Projeto Final - Frontend
 ![image](https://github.com/user-attachments/assets/dfb9f8ea-8aac-488e-8ecf-cc0b175ae122)
-
+## Video até o momento
+[Video para assistir a apresentação](https://youtu.be/0qw5dBFs1Mc)
 ## Descrição
 
 Este é o frontend do Projeto Final, desenvolvido utilizando Angular. O objetivo do projeto é criar uma aplicação web que interage com o backend para gerenciar funcionalidades específicas de um sistema. O frontend foi projetado para ser responsivo e intuitivo, proporcionando uma experiência de usuário agradável e eficiente.
