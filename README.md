@@ -1,4 +1,4 @@
-# Projeto Final - Frontend
+# Projeto Final - FrontEnd e BackEnd
 ![image](https://github.com/user-attachments/assets/dfb9f8ea-8aac-488e-8ecf-cc0b175ae122)
 ## Video até o momento
 [Video para assistir a apresentação](https://youtu.be/0qw5dBFs1Mc)
