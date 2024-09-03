@@ -81,6 +81,21 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request 
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
 
+## Responsável pelo Projeto
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="#" title="contribuidor">
+        <img src="https://avatars.githubusercontent.com/u/60861872?s=400&u=49b2e6b1034e45f02529c6e165c41de8300ed350&v=4" width="100px;" alt="Foto do Gabriel"/><br>
+        <sub>
+          <b>Gabriel André</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
 ## Contato
 
 - Autor: Gabriel André
